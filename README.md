@@ -12,4 +12,4 @@ Open the serial monitor in Arduino to see responses from the server.
 
 
 
-See index file for extended setup information and code explanation.
+See the index file located in the Box Folder (https://ibm.box.com/s/ulbwjtlyt6g1yynjay853m3zn9dpu6uo) for extended setup information and code explanation.
